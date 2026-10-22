@@ -1,0 +1,21 @@
+{
+  "name": "quiz-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Quiz 后台管理系统 - Vue2 + ElementUI",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "core-js": "^3.37.1",
+    "echarts": "^5.5.1",
+    "element-ui": "^2.15.14",
+    "vue": "^2.7.16",
+    "vue-router": "^3.6.5"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.8",
+    "@vue/cli-service": "~5.0.8"
+  }
+}
